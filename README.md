@@ -6,3 +6,5 @@ The full report is published here: <link>https://avenkatraman22.medium.com/headl
 
 
 This article is forthcoming in Toward Data Science, an online publication focused on exchanging ideas and to expand the understanding of data science for thousands of readers.
+
+With Nohl Patterson, Clayton North, and Wade Klein
