@@ -5,6 +5,6 @@ After a contentious election season, we wanted to analyze emotions and ideas in 
 The full report is published here: <link>https://avenkatraman22.medium.com/headline-and-twitter-data-based-sentiment-and-topic-analysis-c539f188fe5b</link>
 
 
-This article is forthcoming in Toward Data Science, an online publication focused on exchanging ideas and to expand the understanding of data science for thousands of readers.
+This article is forthcoming in Toward Data Science, an online publication with thousands of weekly readers.
 
 With Nohl Patterson, Clayton North, and Wade Klein
